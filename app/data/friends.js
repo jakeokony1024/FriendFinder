@@ -1,7 +1,7 @@
 let friendArr = [
 
     {
-        name: "Ned Flanders",
+        name: "ned flanders",
         photo:"https://images2.minutemediacdn.com/image/upload/c_crop,h_860,w_1529,x_54,y_0/f_auto,q_auto,w_1100/v1554826525/shape/mentalfloss/nedflanders_1692813.jpg",
         scores: [
             "5",
@@ -17,7 +17,7 @@ let friendArr = [
         ]
     },
     {
-        name: "Moe Szyslak",
+        name: "moe szyslak",
         photo: "https://i.pinimg.com/originals/dc/58/98/dc589844e576ad2778f4dffbdefc20cf.png",
         scores: [
             "1",
@@ -33,7 +33,7 @@ let friendArr = [
         ]
     },
     {
-        name: "Lisa Simpson",
+        name: "lisa simpson",
         photo: "https://www.stickpng.com/assets/images/5a0c40b85a997e1c2cea116e.png",
         scores: [
             "3",
@@ -48,7 +48,7 @@ let friendArr = [
             "3"
         ]
     },
-    {  name: "Apu",
+    {  name: "apu",
         photo: "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest/top-crop/width/360/height/360?cb=20171027210822",
         scores:[
                 '5',
